@@ -1,6 +1,6 @@
 {
     "config": {
-        "active": true,
+        "active": false,
         "script": "Invoke-WindowsActivation.ps1",
         "author": "Anthony Cotales",
         "version": "v1.0",
@@ -12,4 +12,5 @@
             }
         }
     }
+
 }
